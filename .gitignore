@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Cypress runtime artifacts
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/results/
+
+# Env / secrets
+.env
+.env.local
+cypress.env.json
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log
