@@ -1,0 +1,12 @@
+{
+    "firstName":"Robert", 
+    "lastName":"Miller",
+    "address":"4874 Fake St.", 
+    "city":"Fake City", 
+    "state":"Fake State",
+    "zipCode":"90001",
+    "phoneNumber":"874-786-9283",
+    "ssn":"831-99-3822",
+    "password": "Ilovetesting83!",
+    "confirm": "Ilovetesting83!"
+}
