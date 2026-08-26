@@ -22,3 +22,5 @@ describe('registration', () => {
     })
   })
 });
+
+// Make Login with newly created registration username and password.
